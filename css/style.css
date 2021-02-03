@@ -6,3 +6,45 @@
  *    for example: General styles, Navigation styles, Hero styles, Footer etc.
  * 
  */
+
+ body{
+   background-color: tomato;
+ }
+
+
+.encabezado {
+  background-color: rgb(148, 144, 144);
+  text-align: center;
+  height: 120px;
+  border:2px solid red;
+  color: white;
+  }
+
+.parrafos{
+background-color:rgba(245, 238, 238, 0.25);
+color: black;
+border:2px dotted grey;
+text-align: center;
+margin: 0 3cm;
+padding:0 0.5cm;
+width: 500px;
+}
+
+.PIE{
+  background-color: rgba(238, 130, 238, 0.384);
+  color: white;
+  border: 1px solid grey;
+  border-radius: 50%;
+  text-align: center;
+  margin:0.3cm 5cm;
+  
+}
+.side{
+width: 50%;
+display: inline-block;
+
+}
+.main{
+display: inline-block;
+
+}
